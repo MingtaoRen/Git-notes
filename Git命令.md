@@ -1,4 +1,4 @@
-```c++
+```bash
 git clone git@github.com:MingtaoRen/Git-notes.git
 
 git status
